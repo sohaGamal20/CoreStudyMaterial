@@ -365,3 +365,10 @@ D:\study\CoreStudyMaterial\SampleCorePractice\SampleCorePractice\obj\Debug\net7.
 D:\study\CoreStudyMaterial\SampleCorePractice\SampleCorePractice\obj\Debug\net7.0\SampleCorePractice.pdb
 D:\study\CoreStudyMaterial\SampleCorePractice\SampleCorePractice\obj\Debug\net7.0\SampleCorePractice.genruntimeconfig.cache
 D:\study\CoreStudyMaterial\SampleCorePractice\SampleCorePractice\obj\Debug\net7.0\ref\SampleCorePractice.dll
+D:\study\CoreStudyMaterial\SampleCorePractice\SampleCorePractice\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\study\CoreStudyMaterial\SampleCorePractice\SampleCorePractice\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\study\CoreStudyMaterial\SampleCorePractice\SampleCorePractice\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\study\CoreStudyMaterial\SampleCorePractice\SampleCorePractice\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\study\CoreStudyMaterial\SampleCorePractice\SampleCorePractice\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\study\CoreStudyMaterial\SampleCorePractice\SampleCorePractice\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\study\CoreStudyMaterial\SampleCorePractice\SampleCorePractice\bin\Debug\net7.0\Twilio.dll

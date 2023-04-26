@@ -1,5 +1,7 @@
 using FluentEmail.Smtp;
 using Microsoft.Extensions.Configuration;
+using SampleCorePractice.Helpers;
+using SampleCorePractice.Services;
 using System.Net;
 using System.Net.Mail;
 
@@ -23,6 +25,9 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.Configure<TwilioSettings>(builder.Configuration.GetSection("Twilio"));
+builder.Services.AddTransient<ITwilioSMS, TwilioSMS>();
 
 var app = builder.Build();
 
